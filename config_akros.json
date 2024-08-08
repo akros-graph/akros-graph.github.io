@@ -14,7 +14,7 @@
     "share_url": false,
     "watermark_text": "Akros",   
     "watermark_text2": "akros-graph.github.io",	
-    "watermark_image_url": "", 
+    "watermark_image_url": "img/akroslogo.png", 
     "page_title": "Akros",   
     "page_description": "View and compare frequency response graphs for IEMs",
     "accessories": false,  
